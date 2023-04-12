@@ -1,0 +1,37 @@
+.container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  h1 {
+    margin-bottom: 30px;
+  }
+  
+  table {
+    margin: auto;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+  }
+  
+  td {
+    border: 1px solid black;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    font-size: 60px;
+    font-weight: bold;
+    cursor: pointer;
+  }
+  
+  button {
+    font-size: 20px;
+    padding: 10px 20px;
+    margin-bottom: 20px;
+    cursor: pointer;
+  }
+  
+  #turnInfo {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
